@@ -1,5 +1,5 @@
 # ScrapeIn
-### OSINT gathering tool that allows you to compile a list of employee email addresses from a specific company via LinkedIn. Useful during the Reconaissance phase of a penetration test and can be used further to try and get initial access (ie: targeted phishing campaigns)
+### OSINT gathering tool that allows you to compile a list of employee email addresses from a specific company via LinkedIn. Useful during the reconnaissance phase of a penetration test and can be used further to try and get initial access (ie: targeted phishing campaigns)
 
 **This tool is for EDUCATIONAL purposes only.**
 
